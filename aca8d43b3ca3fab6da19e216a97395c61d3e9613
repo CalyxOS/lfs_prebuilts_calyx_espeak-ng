@@ -16,6 +16,24 @@
       "message": "Production build required",
       "revId": "aca8d43b3ca3fab6da19e216a97395c61d3e9613",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4e0203b_b8d7ebaa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-04-23T21:49:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ac088998_acb797c7",
+      "revId": "aca8d43b3ca3fab6da19e216a97395c61d3e9613",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
